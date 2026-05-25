@@ -26,7 +26,7 @@ Threading — Smooth background processing
 
 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/Mind-Ease.git
+git clone https://github.com/zaidmjd/Mind-Ease.git
 
 
 🏆 Hackathon
