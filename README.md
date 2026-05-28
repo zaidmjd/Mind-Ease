@@ -10,33 +10,33 @@ MindEase is an AI powered desktop app built for students who are quietly struggl
 
 💡 Why We Built This
 
-Students face enormous pressure — deadlines, exams, social stress, sleep deprivation — and most school wellbeing tools feel clinical, judgmental, or just ignored. We wanted to build something a student would actually open.
+Students face enormous pressure, deadlines, exams, social stress, sleep deprivation and most school wellbeing tools feel clinical, judgmental, or just ignored. We wanted to build something a student would actually open.
 
 ✨ Features
 
 🏠 Home Dashboard
-A personal welcome screen showing your app streak, mood streak, last survey result, and daily AI summary count — so you can see your progress at a glance.
+A personal welcome screen showing your app streak, mood streak, last survey result, and daily AI summary count so you can see your progress at a glance.
 
 📋 Wellbeing Survey
-An 8-question check-in covering sleep, motivation, anxiety, social connection, energy, and more. The AI analyses your answers and returns a stress level (Low / Moderate / High) along with a personalised, supportive paragraph — not a generic message, but one written specifically around *your* answers.
+An 8-question check in covering sleep, motivation, anxiety, social connection, energy, and more. The AI analyses your answers and returns a stress level (Low / Moderate / High) along with a personalised, supportive paragraph not a generic message, but one written specifically around your answers.
 
 😊 Mood & Energy Check-in
-Two sliders to quickly log how your mind and body feel right now. Add an optional note. Hit save and get a gentle 2–3 sentence AI summary that acknowledges your state and offers one small suggestion.
+Two sliders to quickly log how your mind and body feel right now. Add an optional note. Hit save and get a gentle 2 to 3 sentence AI summary that acknowledges your state and offers one small suggestion.
 
 📚 Study Assessment
-Enter your subjects and marks out of 100. The app calculates your overall average and sends your data to the AI, which returns focused, actionable improvement advice in 50–70 words — no fluff, just what to actually do next.
+Enter your subjects and marks out of 100. The app calculates your overall average and sends your data to the AI, which returns focused, actionable improvement advice in 50 to 70 words, no fluff, just what to actually do next.
 
-📅 AI-Powered Planner
-Add your tasks and hit "Prioritise with AI." The AI classifies each task as High, Medium, or Low priority, sorts the list, and colour-codes everything so you always know what to tackle first.
+📅 AI Powered Planner
+Add your tasks and hit "Prioritise with AI." The AI classifies each task as High, Medium, or Low priority, sorts the list, and colour codes everything so you always know what to tackle first.
 
-🌬️ Relax — Breathing Tool
-A 60-second guided breathing exercise with an animated circle. Inhale, hold, exhale. No internet required. Works any time you need a reset before an exam or after a hard day.
+🌬️ Relax Breathing Tool
+A 60 second guided breathing exercise with an animated circle. Inhale, hold, exhale. No internet required. Works any time you need a reset before an exam or after a hard day.
 
 💬 AI Helper (Chat)
 A private, anonymous chat with an AI that's instructed to be gentle, kind, and practical. Talk about school stress, overwhelm, or anything on your mind. Full conversation history is kept within the session so the AI remembers context.
 
  📊 Wellbeing Report
-One click generates a full AI-written report summarising your week — strengths, challenges, and 1–2 small action steps. Designed to give you the kind of overview a school counsellor might offer, available any time.
+One click generates a full AI written report summarising your week, strengths, challenges, and 1 to 2 small action steps. Designed to give you the kind of overview a school counsellor might offer, available any time.
 
 🛠️ Tech Stack
 
