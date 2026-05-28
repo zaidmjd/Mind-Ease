@@ -41,9 +41,13 @@ One click generates a full AI-written report summarising your week — strengths
 🛠️ Tech Stack
 
 Language -> Python 3.11+
+
 UI Framework -> CustomTkinterAI 
+
 Backend -> Google Gemini 2.5 Flash 
+
 API Communication -> requests library 
+
 ThreadingPython -> threading module
 
 ⚙️ Setup & Installation
