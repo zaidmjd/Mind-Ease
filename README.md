@@ -1,6 +1,6 @@
 🧠 MindEase - Student Wellbeing App
 
-> **🏆 Prototype Pioneer Award Winner — Dunes Interschool Hackathon 2025**
+**🏆 Prototype Pioneer Award Winner — Dunes Interschool Hackathon 2025**
 
 MindEase is an AI powered desktop app built for students who are quietly struggling. It combines mood tracking, stress surveys, academic assessment, breathing exercises, and a personal AI chat helper. Just you and a tool that actually listens.
 
