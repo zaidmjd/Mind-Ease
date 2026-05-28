@@ -81,7 +81,7 @@ python mindease.py
 🗂️ Project Structure
 
 ```
-mindease.py          ← Entire application (single-file architecture)
+mindease.py          ← Entire application 
 README.md            ← You are here
 ```
 
